@@ -1,0 +1,175 @@
+CountryID,Country,continent,sub_region,GDP nominal,GDP growth,Population ,GDP per capita,Share of World GDP
+1,Afghanistan,Asia,Southern Asia,"$19,543,976,895 ",2.67%,"36,296,113",$538 ,0.02%
+2,Albania,Europe,Southern Europe,"$13,038,538,300 ",3.84%,"2,884,169","$4,521 ",0.02%
+3,Algeria,Africa,Northern Africa,"$167,555,280,113 ",1.60%,"41,389,189","$4,048 ",0.21%
+4,Andorra,Europe,Southern Europe,"$3,012,914,131 ",1.87%,"77,001","$39,128 ",0.00%
+5,Angola,Africa,Middle Africa,"$122,123,822,334 ",-0.15%,"29,816,766","$4,096 ",0.15%
+6,Argentina,Americas,South America,"$637,430,331,479 ",2.85%,"43,937,140","$14,508 ",0.79%
+7,Armenia,Asia,Western Asia,"$11,536,590,636 ",7.50%,"2,944,791","$3,918 ",0.01%
+8,Aruba,Americas,Caribbean,"$2,700,558,659 ",1.33%,"105,366","$25,630 ",0.00%
+9,Australia,Oceania,Australia and New Zealand,"$1,323,421,072,479 ",1.96%,"24,584,620","$53,831 ",1.64%
+10,Austria,Europe,Western Europe,"$416,835,975,862 ",3.04%,"8,819,901","$47,261 ",0.52%
+11,Azerbaijan,Asia,Western Asia,"$40,747,792,238 ",0.10%,"9,845,320","$4,139 ",0.05%
+12,Bahrain,Asia,Western Asia,"$35,432,686,170 ",3.88%,"1,494,076","$23,715 ",0.04%
+13,Bangladesh,Asia,Southern Asia,"$249,723,862,487 ",7.28%,"159,685,424","$1,564 ",0.31%
+14,Barbados,Americas,Caribbean,"$4,673,500,000 ",1.00%,"286,232","$16,328 ",0.01%
+15,Belarus,Europe,Eastern Europe,"$54,456,465,473 ",2.42%,"9,450,231","$5,762 ",0.07%
+16,Belgium,Europe,Western Europe,"$494,763,551,891 ",1.73%,"11,419,748","$43,325 ",0.61%
+17,Belize,Americas,Central America,"$1,862,614,800 ",1.44%,"375,769","$4,957 ",0.00%
+18,Benin,Africa,Western Africa,"$9,246,696,924 ",5.84%,"11,175,198",$827 ,0.01%
+19,Bhutan,Asia,Southern Asia,"$2,528,007,911 ",4.63%,"745,563","$3,391 ",0.00%
+20,Bolivia (Plurinational State of),Americas,South America,"$37,508,642,113 ",4.20%,"11,192,855","$3,351 ",0.05%
+21,Bosnia and Herzegovina,Europe,Southern Europe,"$18,054,854,789 ",3.19%,"3,351,525","$5,387 ",0.02%
+22,Botswana,Africa,Southern Africa,"$17,406,565,823 ",2.36%,"2,205,080","$7,894 ",0.02%
+23,Brazil,Americas,South America,"$2,053,594,877,013 ",0.98%,"207,833,823","$9,881 ",2.54%
+24,Bulgaria,Europe,Eastern Europe,"$58,220,973,783 ",3.81%,"7,102,444","$8,197 ",0.07%
+25,Burkina Faso,Africa,Western Africa,"$12,322,864,245 ",6.30%,"19,193,234",$642 ,0.02%
+26,Burundi,Africa,Eastern Africa,"$3,172,416,146 ",0.50%,"10,827,019",$293 ,0.00%
+27,Cabo Verde,Africa,Western Africa,"$1,772,706,451 ",4.01%,"537,498","$3,298 ",0.00%
+28,Cambodia,Asia,South-Eastern Asia,"$22,158,209,503 ",7.10%,"16,009,409","$1,384 ",0.03%
+29,Cameroon,Africa,Middle Africa,"$34,922,782,311 ",3.55%,"24,566,073","$1,422 ",0.04%
+30,Canada,Americas,Northern America,"$1,647,120,175,449 ",3.05%,"36,732,095","$44,841 ",2.04%
+31,Central African Republic,Africa,Middle Africa,"$1,949,411,659 ",4.30%,"4,596,023",$424 ,0.00%
+32,Chad,Africa,Middle Africa,"$9,871,247,732 ",-2.95%,"15,016,753",$657 ,0.01%
+33,Chile,Americas,South America,"$277,075,944,402 ",1.49%,"18,470,439","$15,001 ",0.34%
+34,China,Asia,Eastern Asia,"$12,237,700,479,375 ",6.90%,"1,421,021,791","$8,612 ",15.12%
+35,Colombia,Americas,South America,"$314,457,601,860 ",1.79%,"48,909,839","$6,429 ",0.39%
+36,Comoros,Africa,Eastern Africa,"$1,068,124,330 ",2.71%,"813,892","$1,312 ",0.00%
+37,Congo,Africa,Middle Africa,"$8,701,334,800 ",-3.10%,"5,110,695","$1,703 ",0.01%
+38,Costa Rica,Americas,Central America,"$57,285,984,448 ",3.28%,"4,949,954","$11,573 ",0.07%
+39,Croatia,Europe,Southern Europe,"$55,213,087,271 ",2.92%,"4,182,857","$13,200 ",0.07%
+40,Cuba,Americas,Caribbean,"$96,851,000,000 ",1.78%,"11,339,254","$8,541 ",0.12%
+41,Cyprus,Asia,Western Asia,"$22,054,225,828 ",4.23%,"1,179,678","$18,695 ",0.03%
+42,Czechia,Europe,Eastern Europe,"$215,913,545,038 ",4.29%,"10,641,034","$20,291 ",0.27%
+43,Côte d'Ivoire,Africa,Western Africa,"$37,353,276,059 ",7.70%,"24,437,470","$1,529 ",0.05%
+44,Democratic Republic of the Congo,Africa,Middle Africa,"$37,642,482,562 ",3.70%,"81,398,764",$462 ,0.05%
+45,Denmark,Europe,Northern Europe,"$329,865,537,183 ",2.24%,"5,732,274","$57,545 ",0.41%
+46,Dominican Republic,Americas,Caribbean,"$75,931,656,815 ",4.55%,"10,513,104","$7,223 ",0.09%
+47,Ecuador,Americas,South America,"$104,295,862,000 ",2.37%,"16,785,361","$6,214 ",0.13%
+48,Egypt,Africa,Northern Africa,"$235,369,129,338 ",4.18%,"96,442,591","$2,441 ",0.29%
+49,El Salvador,Americas,Central America,"$24,805,439,600 ",2.32%,"6,388,126","$3,883 ",0.03%
+50,Equatorial Guinea,Africa,Middle Africa,"$12,293,579,173 ",-4.92%,"1,262,002","$9,741 ",0.02%
+51,Eritrea,Africa,Eastern Africa,,,,,
+52,Estonia,Europe,Northern Europe,"$26,611,651,599 ",4.85%,"1,319,390","$20,170 ",0.03%
+53,Ethiopia,Africa,Eastern Africa,"$80,561,496,134 ",10.25%,"106,399,924",$757 ,0.10%
+54,Finland,Europe,Northern Europe,"$252,301,837,573 ",2.63%,"5,511,371","$45,778 ",0.31%
+55,France,Europe,Western Europe,"$2,582,501,307,216 ",1.82%,"64,842,509","$39,827 ",3.19%
+56,Gabon,Africa,Middle Africa,"$15,013,950,984 ",0.50%,"2,064,823","$7,271 ",0.02%
+57,Gambia,Africa,Western Africa,"$1,489,464,788 ",4.56%,"2,213,889",$673 ,0.00%
+58,Georgia,Asia,Western Asia,"$15,081,338,092 ",4.83%,"4,008,716","$3,762 ",0.02%
+59,Germany,Europe,Western Europe,"$3,693,204,332,230 ",2.22%,"82,658,409","$44,680 ",4.56%
+60,Ghana,Africa,Western Africa,"$58,996,776,238 ",8.14%,"29,121,465","$2,026 ",0.07%
+61,Greece,Europe,Southern Europe,"$203,085,551,429 ",1.35%,"10,569,450","$19,214 ",0.25%
+62,Guatemala,Americas,Central America,"$75,620,095,538 ",2.76%,"16,914,970","$4,471 ",0.09%
+63,Guinea,Africa,Western Africa,"$10,472,514,515 ",10.60%,"12,067,519",$868 ,0.01%
+64,Guinea-Bissau,Africa,Western Africa,"$1,346,841,897 ",5.92%,"1,828,145",$737 ,0.00%
+65,Guyana,Americas,South America,"$3,621,046,005 ",2.92%,"775,222","$4,671 ",0.00%
+66,Haiti,Americas,Caribbean,"$8,408,150,518 ",1.17%,"10,982,366",$766 ,0.01%
+67,Honduras,Americas,Central America,"$22,978,532,897 ",4.79%,"9,429,013","$2,437 ",0.03%
+68,Hungary,Europe,Eastern Europe,"$139,761,138,103 ",3.99%,"9,729,823","$14,364 ",0.17%
+69,Iceland,Europe,Northern Europe,"$24,488,467,010 ",3.64%,"334,393","$73,233 ",0.03%
+70,India,Asia,Southern Asia,"$2,650,725,335,364 ",6.68%,"1,338,676,785","$1,980 ",3.28%
+71,Indonesia,Asia,South-Eastern Asia,"$1,015,420,587,285 ",5.07%,"264,650,963","$3,837 ",1.25%
+72,Iran (Islamic Republic of),Asia,Southern Asia,"$454,012,768,724 ",3.76%,"80,673,883","$5,628 ",0.56%
+73,Iraq,Asia,Western Asia,"$192,060,810,811 ",-2.07%,"37,552,781","$5,114 ",0.24%
+74,Ireland,Europe,Northern Europe,"$331,430,014,003 ",7.80%,"4,753,279","$69,727 ",0.41%
+75,Israel,Asia,Western Asia,"$353,268,411,919 ",3.33%,"8,243,848","$42,852 ",0.44%
+76,Italy,Europe,Southern Europe,"$1,943,835,376,342 ",1.50%,"60,673,701","$32,038 ",2.40%
+77,Jamaica,Americas,Caribbean,"$14,781,107,822 ",0.98%,"2,920,848","$5,061 ",0.02%
+78,Japan,Asia,Eastern Asia,"$4,872,415,104,315 ",1.71%,"127,502,725","$38,214 ",6.02%
+79,Jordan,Asia,Western Asia,"$40,068,308,451 ",1.97%,"9,785,843","$4,095 ",0.05%
+80,Kazakhstan,Asia,Central Asia,"$162,886,867,832 ",4.10%,"18,080,019","$9,009 ",0.20%
+81,Kenya,Africa,Eastern Africa,"$79,263,075,749 ",4.87%,"50,221,142","$1,578 ",0.10%
+82,Swaziland,Africa,Southern Africa,"$4,433,664,364 ",1.87%,"1,124,805","$3,942 ",0.01%
+83,Kuwait,Asia,Western Asia,"$120,126,277,613 ",-2.87%,"4,056,099","$29,616 ",0.15%
+84,Kyrgyzstan,Asia,Central Asia,"$7,564,738,836 ",4.58%,"6,189,733","$1,222 ",0.01%
+85,Lao People's Democratic Republic,Asia,South-Eastern Asia,"$16,853,087,485 ",6.89%,"6,953,035","$2,424 ",0.02%
+86,Latvia,Europe,Northern Europe,"$30,463,302,414 ",4.55%,"1,951,097","$15,613 ",0.04%
+87,Lebanon,Asia,Western Asia,"$53,576,985,687 ",1.53%,"6,819,373","$7,857 ",0.07%
+88,Lesotho,Africa,Southern Africa,"$2,578,265,358 ",-2.29%,"2,091,534","$1,233 ",0.00%
+89,Liberia,Africa,Western Africa,"$3,285,455,000 ",2.47%,"4,702,226",$699 ,0.00%
+90,Libya,Africa,Northern Africa,"$38,107,728,083 ",26.68%,"6,580,724","$5,791 ",0.05%
+91,Lithuania,Europe,Northern Europe,"$47,544,459,559 ",3.83%,"2,845,414","$16,709 ",0.06%
+92,Luxembourg,Europe,Western Europe,"$62,316,359,824 ",2.30%,"591,910","$105,280 ",0.08%
+93,Madagascar,Africa,Eastern Africa,"$11,499,803,807 ",4.17%,"25,570,512",$450 ,0.01%
+94,Malawi,Africa,Eastern Africa,"$6,303,292,264 ",4.00%,"17,670,196",$357 ,0.01%
+95,Malaysia,Asia,South-Eastern Asia,"$314,710,259,511 ",5.90%,"31,104,646","$10,118 ",0.39%
+96,Maldives,Asia,Southern Asia,"$4,865,546,027 ",6.91%,"496,402","$9,802 ",0.01%
+97,Mali,Africa,Western Africa,"$15,334,336,144 ",5.40%,"18,512,430",$828 ,0.02%
+98,Malta,Europe,Southern Europe,"$12,518,134,319 ",6.42%,"437,933","$28,585 ",0.02%
+99,Mauritania,Africa,Western Africa,"$5,024,708,656 ",3.50%,"4,282,570","$1,173 ",0.01%
+100,Mauritius,Africa,Eastern Africa,"$13,266,427,697 ",3.82%,"1,264,499","$10,491 ",0.02%
+101,Mexico,Americas,Central America,"$1,150,887,823,404 ",2.04%,"124,777,324","$9,224 ",1.42%
+102,Monaco,Europe,Western Europe,,,,,
+103,Mongolia,Asia,Eastern Asia,"$11,433,635,876 ",5.30%,"3,113,786","$3,672 ",0.01%
+104,Montenegro,Europe,Southern Europe,"$4,844,592,067 ",4.70%,"627,563","$7,720 ",0.01%
+105,Morocco,Africa,Northern Africa,"$109,708,728,849 ",4.09%,"35,581,255","$3,083 ",0.14%
+106,Mozambique,Africa,Eastern Africa,"$12,645,508,634 ",3.74%,"28,649,018",$441 ,0.02%
+107,Myanmar,Asia,South-Eastern Asia,"$67,068,745,521 ",6.76%,"53,382,523","$1,256 ",0.08%
+108,Namibia,Africa,Southern Africa,"$13,253,698,015 ",-0.95%,"2,402,633","$5,516 ",0.02%
+109,Nepal,Asia,Southern Asia,"$24,880,266,905 ",7.91%,"27,632,681",$900 ,0.03%
+110,Netherlands,Europe,Western Europe,"$830,572,618,850 ",3.16%,"17,021,347","$48,796 ",1.03%
+111,New Zealand,Oceania,Australia and New Zealand,"$204,139,049,909 ",3.03%,"4,702,034","$43,415 ",0.25%
+112,Nicaragua,Americas,Central America,"$13,814,261,536 ",4.86%,"6,384,846","$2,164 ",0.02%
+113,Niger,Africa,Western Africa,"$8,119,710,126 ",4.89%,"21,602,382",$376 ,0.01%
+114,Nigeria,Africa,Western Africa,"$375,745,486,521 ",0.81%,"190,873,244","$1,969 ",0.46%
+115,Norway,Europe,Northern Europe,"$399,488,897,844 ",1.92%,"5,296,326","$75,428 ",0.49%
+116,Oman,Asia,Western Asia,"$70,783,875,163 ",-0.27%,"4,665,928","$15,170 ",0.09%
+117,Pakistan,Asia,Southern Asia,"$304,951,818,494 ",5.70%,"207,906,209","$1,467 ",0.38%
+118,Palau,Oceania,Micronesia,"$289,823,500 ",-3.57%,"17,808","$16,275 ",0.00%
+119,Panama,Americas,Central America,"$62,283,756,584 ",5.32%,"4,106,769","$15,166 ",0.08%
+120,Papua New Guinea,Oceania,Melanesia,"$20,536,314,601 ",2.55%,"8,438,036","$2,434 ",0.03%
+121,Paraguay,Americas,South America,"$39,667,400,816 ",5.21%,"6,867,061","$5,776 ",0.05%
+122,Peru,Americas,South America,"$211,389,272,242 ",2.53%,"31,444,298","$6,723 ",0.26%
+123,Philippines,Asia,South-Eastern Asia,"$313,595,208,737 ",6.68%,"105,172,925","$2,982 ",0.39%
+124,Poland,Europe,Eastern Europe,"$526,465,839,003 ",4.81%,"37,953,180","$13,871 ",0.65%
+125,Portugal,Europe,Southern Europe,"$219,308,128,887 ",2.68%,"10,288,527","$21,316 ",0.27%
+126,Qatar,Asia,Western Asia,"$166,928,571,429 ",1.58%,"2,724,728","$61,264 ",0.21%
+127,Korea (Republic of),Asia,Eastern Asia,"$1,530,750,923,149 ",3.06%,"51,096,415","$29,958 ",1.89%
+128,Republic of Moldova,Europe,Eastern Europe,"$8,128,493,432 ",4.50%,"4,059,684","$2,002 ",0.01%
+129,Macedonia (the former Yugoslav Republic of),Europe,Southern Europe,"$11,279,509,014 ",0.24%,"2,081,996","$5,418 ",0.01%
+130,Romania,Europe,Eastern Europe,"$211,883,923,504 ",7.26%,"19,653,969","$10,781 ",0.26%
+131,Russian Federation,Europe,Eastern Europe,"$1,578,417,211,937 ",1.55%,"145,530,082","$10,846 ",1.95%
+132,Rwanda,Africa,Eastern Africa,"$9,135,454,442 ",6.06%,"11,980,961",$762 ,0.01%
+133,Saint Kitts and Nevis,Americas,Caribbean,"$992,007,403 ",1.17%,"52,045","$19,061 ",0.00%
+134,Saint Lucia,Americas,Caribbean,"$1,737,504,296 ",3.82%,"180,954","$9,602 ",0.00%
+135,Saudi Arabia,Asia,Western Asia,"$686,738,400,000 ",-0.86%,"33,101,179","$20,747 ",0.85%
+136,Senegal,Africa,Western Africa,"$21,070,225,735 ",7.15%,"15,419,355","$1,366 ",0.03%
+137,Serbia,Europe,Southern Europe,"$41,431,648,801 ",1.87%,"8,829,628","$4,692 ",0.05%
+138,Seychelles,Africa,Eastern Africa,"$1,497,959,569 ",5.28%,"96,418","$15,536 ",0.00%
+139,Sierra Leone,Africa,Western Africa,"$3,775,047,334 ",4.21%,"7,488,423",$504 ,0.00%
+140,Singapore,Asia,South-Eastern Asia,"$323,907,234,412 ",3.62%,"5,708,041","$56,746 ",0.40%
+141,Slovakia,Europe,Eastern Europe,"$95,617,670,260 ",3.40%,"5,447,900","$17,551 ",0.12%
+142,Slovenia,Europe,Southern Europe,"$48,769,655,479 ",5.00%,"2,076,394","$23,488 ",0.06%
+143,Solomon Islands,Oceania,Melanesia,"$1,303,453,622 ",3.24%,"636,039","$2,049 ",0.00%
+144,Somalia,Africa,Eastern Africa,,,,,
+145,South Africa,Africa,Southern Africa,"$348,871,647,960 ",1.32%,"57,009,756","$6,120 ",0.43%
+146,South Sudan,Africa,Eastern Africa,,,,,
+147,Spain,Europe,Southern Europe,"$1,314,314,164,402 ",3.05%,"46,647,428","$28,175 ",1.62%
+148,Sri Lanka,Asia,Southern Asia,"$87,357,205,923 ",3.31%,"21,128,032","$4,135 ",0.11%
+149,State of Palestine,Asia,Western Asia,"$14,498,100,000 ",3.14%,"4,747,227","$3,054 ",0.02%
+150,Sudan,Africa,Northern Africa,"$117,487,857,143 ",4.28%,"40,813,397","$2,879 ",0.15%
+151,Suriname,Americas,South America,"$2,995,827,901 ",1.69%,"570,496","$5,251 ",0.00%
+152,Sweden,Europe,Northern Europe,"$535,607,385,506 ",2.29%,"9,904,896","$54,075 ",0.66%
+153,Switzerland,Europe,Western Europe,"$678,965,423,322 ",1.09%,"8,455,804","$80,296 ",0.84%
+154,Syrian Arab Republic,Asia,Western Asia,,,,,
+155,Tajikistan,Asia,Central Asia,"$7,146,449,583 ",7.62%,"8,880,268",$805 ,0.01%
+156,Thailand,Asia,South-Eastern Asia,"$455,302,682,986 ",3.91%,"69,209,810","$6,579 ",0.56%
+157,Togo,Africa,Western Africa,"$4,757,776,485 ",4.40%,"7,698,474",$618 ,0.01%
+158,Trinidad and Tobago,Americas,Caribbean,"$22,079,017,627 ",-2.34%,"1,384,059","$15,952 ",0.03%
+159,Tunisia,Africa,Northern Africa,"$39,952,095,561 ",1.96%,"11,433,443","$3,494 ",0.05%
+160,Turkey,Asia,Western Asia,"$851,549,299,635 ",7.44%,"81,116,450","$10,498 ",1.05%
+161,Turkmenistan,Asia,Central Asia,"$37,926,285,714 ",6.50%,"5,757,667","$6,587 ",0.05%
+162,Uganda,Africa,Eastern Africa,"$25,995,031,850 ",3.86%,"41,166,588",$631 ,0.03%
+163,Ukraine,Europe,Eastern Europe,"$112,154,185,121 ",2.52%,"44,487,709","$2,521 ",0.14%
+164,United Arab Emirates,Asia,Western Asia,"$382,575,085,092 ",0.79%,"9,487,203","$40,325 ",0.47%
+165,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,"$2,637,866,340,434 ",1.79%,"66,727,461","$39,532 ",3.26%
+166,"Tanzania, United Republic of",Africa,Eastern Africa,"$53,320,625,959 ",7.10%,"54,660,339",$975 ,0.07%
+167,United States of America,Americas,Northern America,"$19,485,394,000,000 ",2.27%,"325,084,756","$59,939 ",24.08%
+168,Uruguay,Americas,South America,"$56,156,972,158 ",2.66%,"3,436,641","$16,341 ",0.07%
+169,Uzbekistan,Asia,Central Asia,"$49,677,172,714 ",5.30%,"31,959,785","$1,554 ",0.06%
+170,Venezuela (Bolivarian Republic of),Americas,South America,,,,,
+171,Viet Nam,Asia,South-Eastern Asia,"$223,779,865,815 ",6.81%,"94,600,648","$2,366 ",0.28%
+172,Yemen,Asia,Western Asia,"$31,267,675,216 ",-5.94%,"27,834,819","$1,123 ",0.04%
+173,Zambia,Africa,Eastern Africa,"$25,868,142,073 ",3.40%,"16,853,599","$1,535 ",0.03%
+174,Zimbabwe,Africa,Eastern Africa,"$22,040,902,300 ",4.70%,"14,236,595","$1,548 ",0.03%
