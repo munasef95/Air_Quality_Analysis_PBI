@@ -1,7 +1,7 @@
-This report pulls various csv files that contain AQI_VALUE, 'CO AQI Value', 'Ozone AQI Value', 'NO2 AQI Value', and various other metrics regarding air quality.
+This report pulls various csv files that contain AQI_VALUE, CO AQI Value, Ozone AQI Value, NO2 AQI Value, and various other metrics regarding air quality.
 
-In addition to this I also wanted to analyze AQI data with datasets pulled from other sources that provide census data on country population, GDP, GDP Growth etc
-in order to see if there can be any correlations drawn in the power bi report from these two types of data sets. Ccountry and continent GDP 
+In addition, I also wanted to analyze AQI data with datasets that provide census data on country population, GDP, GDP Growth etc
+in order to see if there can be any correlations drawn in the power bi report from these two different categories of data sets. Country, continent, GDP 
 and census data was pulled from UN datasets
 
 Python, numpy, pandas was used with jupyternotebooks to append datasets together, create primary keys, and clean bad datasets
